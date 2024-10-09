@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LarmaAlarma
+- 👀 I’m passionate about programming and technology
+- 🌱 I’m currently diving deeper into AI and expanding my knowledge in other programming languages
+- 📫 Reach me via email: larma.antonio@gmail.com or connect on LinkedIn: Antonio Larma
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Besides my passion for programming and technology, I also love art. I was part of a theater ensemble and played in an orchestra.
